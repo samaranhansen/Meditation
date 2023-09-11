@@ -1,0 +1,24 @@
+body {
+  background-image: url("../media/galaxy.jpg");
+  background-size: cover;
+  background-repeat: none;
+}
+
+h1 {
+  color: white;
+  font-family: "Overpass", sans-serif;
+}
+
+p {
+  color: #919fb7;
+}
+
+.siteContainer {
+  display: block;
+  margin: 100px;
+  background-color: rgb(0%, 0%, 0%, 0.6);
+  padding: 80px;
+  text-align: center;
+  border: none;
+  border-radius: 20px;
+}
